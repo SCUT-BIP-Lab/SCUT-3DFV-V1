@@ -16,7 +16,7 @@ The SCUT-3DFV-V1 dataset consists of raw images captured by the 3D finger vein a
 The SCUT-3DFV-V1 dataset is publicly available (free of charge) to the research community.  
 Unfortunately, due to privacy reasons, we cannot provide the database for commercial use.  
 
-We have made part of the dataset available for download in the repo in order to get a detailed view of this data. Those interested in obtaining the whole SCUT-3DFV-V1 Dataset should download [release agreement](https://github.com/williamdyoung/SCUT-3DFV-V1/blob/main/SCUT-3DFV-V1%20Database%20Release%20Agreement.pdf), and send by e-mail one signed and scanned copy to scutbip@outlook.com.
+We have made part of the dataset available for download in the repo in order to get a detailed view of this data. Those interested in obtaining the whole SCUT-3DFV-V1 Dataset should download [release agreement](https://github.com/SCUT-BIP-Lab/SCUT-3DFV-V1/blob/main/SCUT-3DFV-V1%20Database%20Release%20Agreement.pdf), and send by e-mail one signed and scanned copy to scutbip@outlook.com.
 
 While reporting results using the __SCUT-3DFV-V1 Dataset__, please cite the following article:  
 @article{Kang2020StudyOA,  
